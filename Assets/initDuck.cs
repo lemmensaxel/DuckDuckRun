@@ -16,5 +16,3 @@ public class initDuck : MonoBehaviour {
 		
 	}
 }
-
-// Tine was hier
