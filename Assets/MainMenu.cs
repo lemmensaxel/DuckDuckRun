@@ -7,6 +7,6 @@ public class MainMenu : MonoBehaviour {
 
     public void	PlayGame ()
     {
-        SceneManager.LoadScene(1); //Voor als je met levels werkt, misschien werkt dit voor onze game ook, anders moet ik nog een aanpassing vinden
+        SceneManager.LoadScene("Game"); //Voor als je met levels werkt, misschien werkt dit voor onze game ook, anders moet ik nog een aanpassing vinden
     }
 }
