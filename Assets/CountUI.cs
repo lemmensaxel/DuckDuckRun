@@ -11,6 +11,6 @@ public class CountUI : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        GetComponent<TextMesh>().text = "Coins: " + GM.points;
 	}
 }
